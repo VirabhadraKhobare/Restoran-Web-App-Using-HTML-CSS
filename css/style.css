@@ -118,10 +118,13 @@ html{
     display: flex;
     padding: 20px;
     background-color: #0f172be9;
-    /* main error here */
-    width: 1293px;
+    /* width: 1293px; */
+    width: 1298px
     height: 790px;
     margin: auto;
+    /* changes here */
+    position:relative;
+    right:10px;
 }
 
 .intro-page .part1{

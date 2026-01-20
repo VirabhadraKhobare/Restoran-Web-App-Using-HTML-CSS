@@ -124,7 +124,8 @@ html{
     margin: auto;
     /* changes here */
     position:relative;
-    right:10px;
+    /* left:0px; */
+    right:5px;
 }
 
 .intro-page .part1{

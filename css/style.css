@@ -14,7 +14,7 @@ html{
 }
 
 .background-image{
-    width:1333px;
+    width:1341px;
     height: 832px;
     position: absolute;
     top: 0;
@@ -29,7 +29,7 @@ html{
     align-items: center;
     background-color: #151527;
     height: 70px;    
-    width: 1333px;
+    width: 88.2%;
     position: fixed;
     z-index: 1;
 }
@@ -124,7 +124,6 @@ html{
     margin: auto;
     /* changes here */
     position:relative;
-    /* left:15px; */
     right:0px;
 }
 

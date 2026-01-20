@@ -123,8 +123,8 @@ html{
     height: 790px;
     margin: auto;
     /* changes here */
-    /* position:relative; */
-    /* left:0px; */
+    position:relative;
+    left:5px;
     /* right:0px; */
 }
 
